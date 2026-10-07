@@ -1,0 +1,6 @@
+{
+  "name": "SG AirPulse - PSI & PM2.5 Live Air Quality Monitor",
+  "description": "Real-time Singapore PSI and PM2.5 atmospheric monitoring with location-based alerts, interactive charts, and live haze weather effects powered by NEA open APIs.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
